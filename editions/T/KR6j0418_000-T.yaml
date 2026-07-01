@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0418/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 妙吉祥平等祕密最上觀門大教王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1192.xml
+    old_id: T20n1192
+hash: sha256:6fa5a8d9d379cd084891b00443c43cd13a9bc962c867b7ac5b96137fa95a371c

@@ -1,0 +1,96 @@
+canonical_identifier: bkk:krp/KR6j0418/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0418/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 妙吉祥平等祕密最上觀門大教王經
+  identifiers:
+    krp: KR6j0418
+    cbeta: T20n1192
+    cbeta_old_id: T20n1192
+    authorityid: CA0002236
+    json_key: T1192
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1192.xml
+    old_id: T20n1192
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0418_000-T.yaml, hash: 'sha256:6fa5a8d9d379cd084891b00443c43cd13a9bc962c867b7ac5b96137fa95a371c'}
+  - {seq: 1, filename: KR6j0418_001-T.yaml, hash: 'sha256:cc9df2dc60cd06cad95b6c0fd85219b3a4a101a09d1f387331daba3b145e0b03'}
+  - {seq: 2, filename: KR6j0418_002-T.yaml, hash: 'sha256:53f8080ddb2ad3125ad5c817074bb19bab7edcb6f4bf56fdbd7e6a1ee6791498'}
+  - {seq: 3, filename: KR6j0418_003-T.yaml, hash: 'sha256:93a05f7bdbf6edc977c4b80aa7e32e04a4ab0eaae516c45508b421f3ec6788dd'}
+  - {seq: 4, filename: KR6j0418_004-T.yaml, hash: 'sha256:34fd28dfc93c4d0b44eea1da63403594adab42b36b7d1422c2c72606cfefe50d'}
+  - {seq: 5, filename: KR6j0418_005-T.yaml, hash: 'sha256:3f902abf60c494140ff604d9e57387dffb0cb16f245bebc4f09dca601383f25f'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0418_000-T.markers.yaml, hash: 'sha256:a2f4947eabc83436c83dcffd61f57735b1dd37733c52b49ab5ab7d8052a93dee'}
+  - {seq: 1, role: markers, filename: assets/KR6j0418_001-T.markers.yaml, hash: 'sha256:11a4fdd25476ebfe864e9743e43cada3c634c169e02cd61d180ae7ce0aff4eb7'}
+  - {seq: 2, role: markers, filename: assets/KR6j0418_002-T.markers.yaml, hash: 'sha256:04ad339e0ce0022971dc34db4fd2b1b6c48ccba0235c336cde5d987a2b188ee1'}
+  - {seq: 3, role: markers, filename: assets/KR6j0418_003-T.markers.yaml, hash: 'sha256:d7f88d8ee0efcebbb2e27eebead8f4e0221e60b5b5fb87896c5392fdb3eb58c3'}
+  - {seq: 4, role: markers, filename: assets/KR6j0418_004-T.markers.yaml, hash: 'sha256:1213951ebffdf8d281d41311df978fa089ffdd5ee63d063a669ae44e8757ea03'}
+  - {seq: 5, role: markers, filename: assets/KR6j0418_005-T.markers.yaml, hash: 'sha256:fbf6bd330c9906011a39c0f53e67a64e42bcb0c1401f57a2bc3b14d99b4c8d7a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0418_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7636
+  label: '妙吉祥平等祕密最上觀門大教
+
+    王經卷第一'
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0418_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 5584
+  label: '妙吉祥平等祕密最上觀門大
+
+    教王經卷第二'
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6j0418_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8773
+  label: '妙吉祥平等祕密最上觀門大教
+
+    王經卷第三'
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6j0418_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 5160
+  label: '妙吉祥平等祕密最上觀門大
+
+    教王經卷第四'
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6j0418_T_005-juan-start
+    span:
+    - body
+    - 0
+    - 3538
+  label: '妙吉祥平等祕密最上觀門大
+
+    教王經卷第五'
+  type: juan
+  level: 1
+hash: sha256:2fbc43fd67d53d51885be8dc1e9cb47a0d83ac03ca2c2fd7f8a44fe1821ecde8
